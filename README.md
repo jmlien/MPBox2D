@@ -1,8 +1,8 @@
-# MPBox2D++
+# MPBox2D
 
 ## Overview
 
-MPBox2D++ is a library for motion planning in dynamic 2D enviroment with moving obstacles. Obstacles' motion are unknown and unpredictable. What only know to MPBox2D++ are the maximum translational and angular velocities of every obstacles. For more information, please visit the project website [http://masc.cs.gmu.edu/wiki/ECT](http://masc.cs.gmu.edu/wiki/ECT).
+MPBox2D is a library for motion planning in dynamic 2D enviroment with moving obstacles. Obstacles' motion are unknown and unpredictable. What only know to MPBox2D are the maximum translational and angular velocities of every obstacles.
 
 
 ## To Build
