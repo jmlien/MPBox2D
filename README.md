@@ -162,10 +162,10 @@ tx ty v=1
 
 ## Authors
 
-* Yanyan Lu, [blackjade6@gmail.com](mailto:blackjade6@gmail.com), SDE, Amazon
-* Zhonghua Xi, [zxi@gmu.edu](mailto:zxi@gmu.edu), Ph.D. Student, CS Dept., George Mason University 
-* Yue Hao, [yhao3@gmu.edu](mailto:yhao3@gmu.edu), Ph.D. Student, CS Dept., George Mason University 
-* Jyh-Ming Lien, [jmlien@cs.gmu.edu](mailto:jmlien@cs.gmu.edu), Associate Professor, CS Dept., George Mason University 
+* Yanyan Lu, [blackjade6@gmail.com](mailto:blackjade6@gmail.com)
+* [Zhonghua Xi](https://github.com/xizhonghua)
+* Yue Hao
+* [Jyh-Ming Lien](https://github.com/jmlien)
 
 
 
