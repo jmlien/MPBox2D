@@ -1,18 +1,9 @@
 # MPBox2D++
-----
+
 ## Overview
 
 MPBox2D++ is a library for motion planning in dynamic 2D enviroment with moving obstacles. Obstacles' motion are unknown and unpredictable. What only know to MPBox2D++ are the maximum translational and angular velocities of every obstacles. For more information, please visit the project website [http://masc.cs.gmu.edu/wiki/ECT](http://masc.cs.gmu.edu/wiki/ECT).
 
-----
-
-## Publications
-* **Predict Collision Among Rigid and Articulated Obstacles with Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, The Eleventh International Workshop on the Algorithmic Foundations of Robotics (WAFR), Aug. 2014 
-* **Collision Prediction Among Polygons with Arbitrary Shape and Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Sep. 2014
-* **Collision Prediction: Conservative Advancement Among Obstacles With Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, International Design and Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE), ASME, Aug. 2014 
-* **Conservative Collision Prediction Among Polygons with Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, George Mason University, (Technical Report), 2013
-
-----
 
 ## To Build
 
@@ -179,4 +170,12 @@ tx ty v=1
 * Zhonghua Xi, [zxi@gmu.edu](mailto:zxi@gmu.edu), Ph.D. Student, CS Dept., George Mason University 
 * Yue Hao, [yhao3@gmu.edu](mailto:yhao3@gmu.edu), Ph.D. Student, CS Dept., George Mason University 
 * Jyh-Ming Lien, [jmlien@cs.gmu.edu](mailto:jmlien@cs.gmu.edu), Associate Professor, CS Dept., George Mason University 
+
+
+
+## Publications
+* **Predict Collision Among Rigid and Articulated Obstacles with Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, The Eleventh International Workshop on the Algorithmic Foundations of Robotics (WAFR), Aug. 2014 
+* **Collision Prediction Among Polygons with Arbitrary Shape and Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Sep. 2014
+* **Collision Prediction: Conservative Advancement Among Obstacles With Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, International Design and Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE), ASME, Aug. 2014 
+* **Conservative Collision Prediction Among Polygons with Unknown Motion**, Yanyan Lu and Zhonghua Xi and Jyh-Ming Lien, George Mason University, (Technical Report), 2013
 
