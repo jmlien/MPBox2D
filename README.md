@@ -13,8 +13,6 @@ cd build/release
 make
 ```
 
-----
-
 ## Usage
 
 ```
@@ -162,9 +160,7 @@ tx ty v=1
 | [ | Decrease animation speed factor |
 | D | Dump current config of robot and all obstacles |
 
-----
-
-##Authors
+## Authors
 
 * Yanyan Lu, [blackjade6@gmail.com](mailto:blackjade6@gmail.com), SDE, Amazon
 * Zhonghua Xi, [zxi@gmu.edu](mailto:zxi@gmu.edu), Ph.D. Student, CS Dept., George Mason University 
